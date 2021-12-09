@@ -17,3 +17,5 @@ You should create one R script called run_analysis.R that does the following.
 # Download data
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
  
+# Go to code
+[Run analysis](https://github.com/Gerardo0309/Getting-and-Cleaning-Data/blob/main/run_analysis.R)
